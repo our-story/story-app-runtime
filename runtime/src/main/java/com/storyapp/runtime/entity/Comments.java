@@ -8,9 +8,9 @@ import lombok.Data;
 @Data
 public class Comments {
 
+    // TODO: 21/01/18 check the association with story and writer
+    private String id;
     private String user;
-
-
     private String content;
 
 
