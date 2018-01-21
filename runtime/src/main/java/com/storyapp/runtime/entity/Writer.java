@@ -16,7 +16,7 @@ public class Writer {
 
     @Id
     private String id;
-    private String email;
+    private String emailId;
     private String name;
     private Gender gender;
     private Date dob;
